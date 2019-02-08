@@ -1,0 +1,4 @@
+Thread.currentThread()	 :当前线程
+  setName():设置名称
+  getName():获取名称
+  isAlive():判断状态
